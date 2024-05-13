@@ -1,0 +1,5 @@
+!regolith.look.path: /usr/share/regolith-look/ayu-dark
+
+gtk.font_name: Ubuntu
+gtk.monospace_font_name: Ubuntu Mono
+regolith.look.path: /usr/share/regolith-look/dracula
